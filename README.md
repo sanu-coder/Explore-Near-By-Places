@@ -45,6 +45,7 @@ places which suits their needs.
 It is divided into the three sections : 
 
 1. Food Zone : 
+Api link : https://backend-near-by-place.herokuapp.com/cafes
 
         In this section, list of nearby street foods, cafes and hotels are listed. 
         They are dynamically displayed. It contains some filters : 
@@ -55,6 +56,7 @@ It is divided into the three sections :
         d. Ratings
         
 2. Hospital Zone : 
+Api link : https://backend-near-by-place.herokuapp.com/hospitals
 
         In this section, list of nearby hospitals are listed. They are dynamically 
         displayed. It contains some filters : 
@@ -64,7 +66,7 @@ It is divided into the three sections :
         d. Ownership filter(Government or private)
         
 3. Shopping Center Zones :
- 
+Api link ; https://backend-near-by-place.herokuapp.com/shopping
         In this zone, different shopping centers are available depends on the 
         users need. It contains some sets of filters : 
         a. Shopping centers names are listed depends on the type of filter 
