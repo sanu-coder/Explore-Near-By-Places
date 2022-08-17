@@ -11,7 +11,7 @@ Shopping Centers, is a region-based based application which tells about
 near by food, shopping and hospital zones. It is provided with different 
 filters, so that it can provide an ease to the user to search informations 
 about near by places. It uses Angular framework on its frontend and 
-NodeJs, Express Framework on its Backend.
+NodeJs, Express Framework on its Backend. Here database is used is mongodb.
 
 ## Tools and Technologies : 
 
