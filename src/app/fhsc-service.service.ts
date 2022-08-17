@@ -16,21 +16,21 @@ export class FhscServiceService {
 
   }
   register(user :any){
-    return this.http.post('http://localhost:3000/user',
+    return this.http.post('https://backend-near-by-place.herokuapp.com/user',
     user,
     this.httpOptions);
   }
   login(user:any){
     console.log(user);
-    return this.http.post('http://localhost:3000/users',
+    return this.http.post('https://backend-near-by-place.herokuapp.com/users',
     user,
     this.httpOptions);
   }
   getHospitals(){
-    return this.http.get('http://localhost:3000/hospitals');
+    return this.http.get('https://backend-near-by-place.herokuapp.com/hospitals');
   }
   getFoods(){
-    return this.http.get('http://localhost:3000/cafes');
+    return this.http.get('https://backend-near-by-place.herokuapp.com/cafes');
   }
   getShoppings(){
     return this.http.get('http://localhost:3000/shopping');
