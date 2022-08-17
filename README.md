@@ -1,8 +1,5 @@
 # FHSC
 
-Hello Learners !!
-
-This project is for <a href="https://developers.google.com/community/gdsc-solution-challenge">Google Solution Challenge</a> to meet the goal no 4 i.e <b>Quality Education</b>.
 
 FHSC( food, hospitals and shopping centers) is an web application which tells about the places near your location. It's goal to help and increase the knowledge of the users to make their life more easier and comfortable.
 
