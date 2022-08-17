@@ -33,6 +33,6 @@ export class FhscServiceService {
     return this.http.get('https://backend-near-by-place.herokuapp.com/cafes');
   }
   getShoppings(){
-    return this.http.get('http://localhost:3000/shopping');
+    return this.http.get('https://backend-near-by-place.herokuapp.com/shopping');
   }
 }
